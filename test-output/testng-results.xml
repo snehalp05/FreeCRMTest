@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Practice Suite" duration-ms="144686" started-at="2020-06-08T06:06:05Z" finished-at="2020-06-08T06:08:29Z">
+    <groups>
+    </groups>
+    <test name="Test Basics 1" duration-ms="144686" started-at="2020-06-08T06:06:05Z" finished-at="2020-06-08T06:08:29Z">
+      <class name="org.makeMyTrip.qa.testcases.LoginPageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:org.makeMyTrip.qa.testcases.LoginPageTest@5e3a8624]" name="setup" is-config="true" duration-ms="20705" started-at="2020-06-08T11:36:05Z" finished-at="2020-06-08T11:36:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loginPageTitleTest()[pri:0, instance:org.makeMyTrip.qa.testcases.LoginPageTest@5e3a8624]" name="loginPageTitleTest" duration-ms="58" started-at="2020-06-08T11:36:25Z" finished-at="2020-06-08T11:36:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageTitleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:org.makeMyTrip.qa.testcases.LoginPageTest@5e3a8624]" name="tearDown" is-config="true" duration-ms="2351" started-at="2020-06-08T11:36:25Z" finished-at="2020-06-08T11:36:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:org.makeMyTrip.qa.testcases.LoginPageTest@5e3a8624]" name="setup" is-config="true" duration-ms="13410" started-at="2020-06-08T11:36:28Z" finished-at="2020-06-08T11:36:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:org.makeMyTrip.qa.testcases.LoginPageTest@5e3a8624]" name="loginTest" duration-ms="920" started-at="2020-06-08T11:36:41Z" finished-at="2020-06-08T11:36:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:org.makeMyTrip.qa.testcases.LoginPageTest@5e3a8624]" name="tearDown" is-config="true" duration-ms="1719" started-at="2020-06-08T11:36:42Z" finished-at="2020-06-08T11:36:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- org.makeMyTrip.qa.testcases.LoginPageTest -->
+      <class name="org.makeMyTrip.qa.testcases.HomePageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:org.makeMyTrip.qa.testcases.HomePageTest@5c3bd550]" name="setup" is-config="true" duration-ms="11254" started-at="2020-06-08T11:36:44Z" finished-at="2020-06-08T11:36:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyContactsLinkTest()[pri:0, instance:org.makeMyTrip.qa.testcases.HomePageTest@5c3bd550]" name="verifyContactsLinkTest" duration-ms="7650" started-at="2020-06-08T11:36:55Z" finished-at="2020-06-08T11:37:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyContactsLinkTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:org.makeMyTrip.qa.testcases.HomePageTest@5c3bd550]" name="tearDown" is-config="true" duration-ms="2429" started-at="2020-06-08T11:37:03Z" finished-at="2020-06-08T11:37:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:org.makeMyTrip.qa.testcases.HomePageTest@5c3bd550]" name="setup" is-config="true" duration-ms="25277" started-at="2020-06-08T11:37:05Z" finished-at="2020-06-08T11:37:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyDealsLinkTest()[pri:0, instance:org.makeMyTrip.qa.testcases.HomePageTest@5c3bd550]" name="verifyDealsLinkTest" duration-ms="3597" started-at="2020-06-08T11:37:30Z" finished-at="2020-06-08T11:37:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyDealsLinkTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:org.makeMyTrip.qa.testcases.HomePageTest@5c3bd550]" name="tearDown" is-config="true" duration-ms="797" started-at="2020-06-08T11:37:34Z" finished-at="2020-06-08T11:37:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:org.makeMyTrip.qa.testcases.HomePageTest@5c3bd550]" name="setup" is-config="true" duration-ms="10808" started-at="2020-06-08T11:37:35Z" finished-at="2020-06-08T11:37:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyHomePageTitleTest()[pri:0, instance:org.makeMyTrip.qa.testcases.HomePageTest@5c3bd550]" name="verifyHomePageTitleTest" duration-ms="26" started-at="2020-06-08T11:37:46Z" finished-at="2020-06-08T11:37:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomePageTitleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:org.makeMyTrip.qa.testcases.HomePageTest@5c3bd550]" name="tearDown" is-config="true" duration-ms="882" started-at="2020-06-08T11:37:46Z" finished-at="2020-06-08T11:37:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:org.makeMyTrip.qa.testcases.HomePageTest@5c3bd550]" name="setup" is-config="true" duration-ms="11592" started-at="2020-06-08T11:37:47Z" finished-at="2020-06-08T11:37:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyUserLabelTest()[pri:0, instance:org.makeMyTrip.qa.testcases.HomePageTest@5c3bd550]" name="verifyUserLabelTest" duration-ms="1541" started-at="2020-06-08T11:37:58Z" finished-at="2020-06-08T11:38:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUserLabelTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:org.makeMyTrip.qa.testcases.HomePageTest@5c3bd550]" name="tearDown" is-config="true" duration-ms="875" started-at="2020-06-08T11:38:00Z" finished-at="2020-06-08T11:38:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- org.makeMyTrip.qa.testcases.HomePageTest -->
+      <class name="org.makeMyTrip.qa.testcases.ContactsPageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:org.makeMyTrip.qa.testcases.ContactsPageTest@91161c7]" name="setup" is-config="true" duration-ms="12284" started-at="2020-06-08T11:38:01Z" finished-at="2020-06-08T11:38:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="selectContactTest()[pri:0, instance:org.makeMyTrip.qa.testcases.ContactsPageTest@91161c7]" name="selectContactTest" duration-ms="1379" started-at="2020-06-08T11:38:13Z" finished-at="2020-06-08T11:38:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectContactTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:org.makeMyTrip.qa.testcases.ContactsPageTest@91161c7]" name="tearDown" is-config="true" duration-ms="864" started-at="2020-06-08T11:38:14Z" finished-at="2020-06-08T11:38:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:org.makeMyTrip.qa.testcases.ContactsPageTest@91161c7]" name="setup" is-config="true" duration-ms="12649" started-at="2020-06-08T11:38:15Z" finished-at="2020-06-08T11:38:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyContactsPageLabel()[pri:0, instance:org.makeMyTrip.qa.testcases.ContactsPageTest@91161c7]" name="verifyContactsPageLabel" duration-ms="191" started-at="2020-06-08T11:38:28Z" finished-at="2020-06-08T11:38:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyContactsPageLabel -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:org.makeMyTrip.qa.testcases.ContactsPageTest@91161c7]" name="tearDown" is-config="true" duration-ms="1376" started-at="2020-06-08T11:38:28Z" finished-at="2020-06-08T11:38:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- org.makeMyTrip.qa.testcases.ContactsPageTest -->
+    </test> <!-- Test Basics 1 -->
+  </suite> <!-- Practice Suite -->
+</testng-results>
